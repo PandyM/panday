@@ -1,1 +1,1 @@
-# panday
+# pandy
